@@ -1,6 +1,6 @@
 # Data Exploration in SQL Server
 
-![COVID-19]([covid.jpg](https://ourworldindata.org/coronavirus))
+![COVID-19]([covid.jpg](covid19.png)
 
 This repository contains a comprehensive exploration of COVID-19 data using SQL Server. The analysis covers various aspects of the pandemic, including total cases, deaths, vaccination rates, and population demographics.
 
